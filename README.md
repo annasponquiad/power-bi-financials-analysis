@@ -9,7 +9,7 @@ The aim was to practise importing and preparing data, building interactive visua
 
 I wanted to create a report that would allow someone to quickly understand overall business performance, while also being able to look more closely at sales and profitability across different segments, countries and reporting periods.
 
-## Dashboard Preview
+## Report Preview
 
 ![Power BI Financials Analysis](power-bi-financials-analysis.JPG)
 
@@ -55,7 +55,7 @@ I kept these records because they represented valid financial results and could 
 
 ## Building the Report
 
-I divided the report into two pages so that sales and profitability could be explored separately without overcrowding the dashboard.
+I divided the report into two pages so that sales and profitability could be explored separately without overcrowding the report.
 
 ### Page 1 – Sales Report
 
