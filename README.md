@@ -159,7 +159,7 @@ Through this project, I gained more hands-on experience with:
 
 ## How to View the Report
 
-1. Download `financials_dataset_DIO_project.pbix` from this repository.
+1. Download `power-bi-financials-analysis.pbix` from this repository.
 2. Open the file in Microsoft Power BI Desktop.
 3. Explore the Sales and Profit report pages.
 4. Use the slicers to filter the information by reporting period.
